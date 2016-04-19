@@ -10,3 +10,4 @@
 ### JSP
 
 1. [JSP Custom Spy for Mysql](./jsp_custom_spy_for_mysql.jsp)
+2. [JSP Custom Spy for ORACLE](./jsp_custom_spy_for_oracle.jsp)
